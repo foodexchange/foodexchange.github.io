@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Julia Flanders
+name: Family Food Exchange
 
 # Short bio or description (displayed in the header)
-description: fiber and digital humanities practitioner
+description: sharing recipes and food ideas
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: # https://raw.githubusercontent.com/juliaflanders/juliaflanders.github.io/master/images/flanders_avatar.jpg
@@ -21,12 +21,12 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: juliaflanders/juliaflanders.github.io
+  github: foodexchange/foodexchange.github.io
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: julia_flanders
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
