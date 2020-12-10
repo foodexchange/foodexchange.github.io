@@ -4,8 +4,6 @@ title: Roasted Beet and Goat Cheese Salad
 category: salad
 ---
 
-# Roasted Beet and Goat Cheese Salad
-
 **Ingredients:**
 - salad greens
 - 4 large beets
