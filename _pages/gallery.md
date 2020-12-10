@@ -3,14 +3,14 @@ layout: default
 title: gallery
 permalink: /gallery/
 images:
-  - image_path: ../images/[filename]
-    title: [Name of item]
+  - image_path: ../images/beet-salad.jpeg
+    title: Roasted beet and goat cheese salad
     
     
     
 ---
 
-<p>Header text</p>
+<p>Gallery of things we made</p>
 
 
 <ul class="photo-gallery">
