@@ -3,6 +3,9 @@ layout: post
 title: Roasted Beet and Goat Cheese Salad
 category: salad
 ---
+Simple and elegant and on all the restaurant menus but this one is better because you actually roast the beets!
+
+![roasted beet salad](../images/beet_salad.jpeg){:height="400px"}
 
 **Ingredients:**
 - salad greens
@@ -23,4 +26,3 @@ Heat a non-stick skillet and pour four little puddles of olive oil into it, and 
 
 Scatter the beets onto the salad greens, drizzle with vinaigrette, and top each serving with a chunk of goat cheese.
 
-![roasted beet salad](../images/beet_salad.jpeg){:height="400px"}
