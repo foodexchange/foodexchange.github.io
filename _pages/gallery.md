@@ -3,7 +3,7 @@ layout: default
 title: gallery
 permalink: /gallery/
 images:
-  - image_path: ../images/beet-salad.jpeg
+  - image_path: ../images/beet_salad.jpeg
     title: Roasted beet and goat cheese salad
     
     
