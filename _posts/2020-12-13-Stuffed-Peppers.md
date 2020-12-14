@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stuffed Peppers
+title: Stuffed Peppers and Zucchini
 category: [vegetables, vegetarian]
 ---
 
@@ -21,18 +21,12 @@ Ingredients:
 
 Preheat the oven to 375˚.
 
-Cut bell peppers lengthwise into two boat-shaped halves, and remove the stem and seeds.
+Cut bell peppers lengthwise into two boat-shaped halves, and remove the stem and seeds. If you're using zucchini, cut them in half lengthwise, and with a sharp knife hollow out the middles to leave a shell, and keep the middle part to add to the filling. Lightly salt the peppers and/or zucchini and set them aside while you make the filling.
 
-If you're using zucchini, cut them in half lengthwise, and with a sharp knife hollow out the middles to leave a shell, and keep the middle part to add to the filling.
-
-Lightly salt the peppers and/or zucchini and set them aside while you make the filling.
-
-In a large skillet, saute the onions in olive oil till soft and golden. If you're using zucchini, chop the middles into small dice and cook them with the onions. Then add the garlic, raisins, walnuts, and  herbs and stir to combine. Add salt, pepper, a bit of chili pepper, and a sprinkle of ground cumin and ground coriander. If you have an Italian or middle Easter spice mix that you like, you could use that instead.
-
-Mix the cooked grains in with with onion mixture. 
+In a large skillet, saute the onions in olive oil till soft and golden. If you're using zucchini, chop the middles into small dice and cook them with the onions. Then add the garlic, raisins, walnuts, and  herbs and stir to combine. Add salt, pepper, a bit of chili pepper, and a sprinkle of ground cumin and ground coriander. If you have an Italian or middle Easter spice mix that you like, you could use that instead. Mix the cooked grains in with the onion mixture. 
 
 In a baking pan large enough to hold all of the vegetables, scatter the chopped tomatoes, and nestle in the peppers and/or zucchini. They should be pretty close together (they will get a bit smaller as they cook so it's OK to jam them in tightly). Distribute the filling mixture among the vegetables. 
 
-Drizzle the tops generously with olive oil and grated cheese if you're using it.
+Drizzle the tops generously with olive oil and sprinkle with grated cheese if you're using it.
 
 Cover the pan with foil and bake for about 30-40 minutes, until the vegetable shells are tender. Then remove the foil and bake for another 10-15 minutes, until the tops are a bit golden.
