@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stuffed Peppers
-category: vegetables, vegetarian
+category: [vegetables, vegetarian]
 ---
 
 This is especially good when you have a lot of late summer vegetables like zucchini and peppers. It's good hot or cold and also freezes well.
