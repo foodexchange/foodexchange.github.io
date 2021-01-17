@@ -9,7 +9,7 @@ Simple and elegant and on all the restaurant menus but this one is better becaus
 
 **Ingredients:**
 - salad greens
-- 4 large beets
+- 4 largish beets
 - 1 4-oz log of fresh goat cheese
 - Panko breadcrumbs or fine cornmeal
 - vinaigrette of your choice
