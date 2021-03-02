@@ -22,10 +22,11 @@ Time: 20 minutes
 Yield: 4 servings
 
 **Instructions:**
-#Boil exactly a quart of water. 
 
-#Meanwhile, place spaghetti, tomatoes, lemon zest, oil, and 2 teaspoons kosher salt in a large, dry, shallow pan (large enough so spaghetti can lie flat).
+1. Boil exactly a quart of water. 
 
-#Add boiling water to pan with spaghetti. Cover pan and bring up to a boil. Remove lid and simmer for about 6 minutes, using tongues to move around spaghetti so it doesn’t stick. Add kale or spinach and continue cooking until remaining liquid has reduced to a sauce and pasta is cooked through.
+1. Meanwhile, place spaghetti, tomatoes, lemon zest, oil, and 2 teaspoons kosher salt in a large, dry, shallow pan (large enough so spaghetti can lie flat).
 
-#Taste, season with salt and pepper, and top with Parmesan.
+1. Add boiling water to pan with spaghetti. Cover pan and bring up to a boil. Remove lid and simmer for about 6 minutes, using tongues to move around spaghetti so it doesn’t stick. Add kale or spinach and continue cooking until remaining liquid has reduced to a sauce and pasta is cooked through.
+
+1. Taste, season with salt and pepper, and top with Parmesan.
