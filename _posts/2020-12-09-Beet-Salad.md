@@ -14,6 +14,7 @@ Simple and elegant and on all the restaurant menus but this one is better becaus
 - Panko breadcrumbs or fine cornmeal
 - vinaigrette of your choice
 
+**Instructions:**
 Peel the beets and cut them into bite-sized chunks. Toss them in olive oil and sprinkle with a bit of salt.
 
 Put the beets into a baking dish and cover with foil and roast at 375˚ for about 30-40 minutes, until they're tender. Remove the foil and roast a bit longer, till they start to get a little caramelized.

@@ -21,8 +21,7 @@ This is a super fast, easy, delicious recipe from the New York Times supplement 
 Time: 20 minutes
 Yield: 4 servings
 
-Instructions:
-
+**Instructions:**
 # Boil exactly a quart of water. 
 
 # Meanwhile, place spaghetti, tomatoes, lemon zest, oil, and 2 teaspoons kosher salt in a large, dry, shallow pan (large enough so spaghetti can lie flat).

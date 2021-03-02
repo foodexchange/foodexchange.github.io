@@ -25,7 +25,6 @@ Time: 20 minutes
 Yield: 4 servings
 
 **Instructions:**
-
 # Heat oven to 425 degrees. On rimmed baking sheet toss broccoli, oil, cumin (if using), ¾ teaspoon salt and red-pepper flakes. Roast until tender and browned at the edges, 18–24 minutes, tossing halfway through. Remote and set oven to broil.
 
 # Bring pot of salted water to boil and cook pasta.

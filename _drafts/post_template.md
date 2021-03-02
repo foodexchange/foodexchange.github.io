@@ -1,8 +1,15 @@
 ---
 layout: post
 title: 
-category:
+category: [comma-separated list inside square brackets]
 ---
 
-To include a image:
+Brief summary here.
+
+Optional image:
 ![description](../images/filename.jpeg){:height="100px"}
+
+**Ingredients:**
+- ingredient
+
+**Instructions:**

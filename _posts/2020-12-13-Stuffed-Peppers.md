@@ -6,7 +6,7 @@ category: [vegetables, vegetarian]
 
 This is especially good when you have a lot of late summer vegetables like zucchini and peppers. It's good hot or cold and also freezes well.
 
-Ingredients:
+**Ingredients:**
 - 8 bell peppers, or 8 zucchini, or a mix of the two
 - 1 onion, diced
 - 4 cloves garlic, chopped fine
@@ -19,6 +19,7 @@ Ingredients:
 - grated cheese, optional
 - olive oil
 
+**Instructions:**
 Preheat the oven to 375˚.
 
 Cut bell peppers lengthwise into two boat-shaped halves, and remove the stem and seeds. If you're using zucchini, cut them in half lengthwise, and with a sharp knife hollow out the middles to leave a shell, and keep the middle part to add to the filling. Lightly salt the peppers and/or zucchini and set them aside while you make the filling.
