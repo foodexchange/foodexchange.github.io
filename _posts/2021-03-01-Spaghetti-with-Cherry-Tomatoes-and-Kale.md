@@ -6,7 +6,7 @@ category: [dairy_free, speedy, vegetarian]
 
 This is a super fast, easy, delicious recipe from the New York Times supplement featuring “One Pot Cooking.” We’ve gotten tons of mileage out of it. The boiling water is used to make a sauce for the pasta.
 
-![spaghetti with kale and cherry tomatoes](../images/spaghetti_kale_tomatoes.jpg){:height="100px"}
+![spaghetti with kale and cherry tomatoes](../images/spaghetti_kale_tomatoes.jpg){:height="400px"}
 
 **Ingredients:**
 - 1 lb spaghetti
@@ -22,10 +22,10 @@ Time: 20 minutes
 Yield: 4 servings
 
 **Instructions:**
-# Boil exactly a quart of water. 
+#Boil exactly a quart of water. 
 
-# Meanwhile, place spaghetti, tomatoes, lemon zest, oil, and 2 teaspoons kosher salt in a large, dry, shallow pan (large enough so spaghetti can lie flat).
+#Meanwhile, place spaghetti, tomatoes, lemon zest, oil, and 2 teaspoons kosher salt in a large, dry, shallow pan (large enough so spaghetti can lie flat).
 
-# Add boiling water to pan with spaghetti. Cover pan and bring up to a boil. Remove lid and simmer for about 6 minutes, using tongues to move around spaghetti so it doesn’t stick. Add kale or spinach and continue cooking until remaining liquid has reduced to a sauce and pasta is cooked through.
+#Add boiling water to pan with spaghetti. Cover pan and bring up to a boil. Remove lid and simmer for about 6 minutes, using tongues to move around spaghetti so it doesn’t stick. Add kale or spinach and continue cooking until remaining liquid has reduced to a sauce and pasta is cooked through.
 
-# Taste, season with salt and pepper, and top with Parmesan.
+#Taste, season with salt and pepper, and top with Parmesan.
